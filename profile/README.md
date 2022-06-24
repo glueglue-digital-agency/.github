@@ -9,7 +9,7 @@ Since 2007 we have been working with successful startups and numerous fortune 50
 Through memorable and distinctive solutions we want to simplify and enhance our clients and their users lives.
 
 ### Technology
-- [Symfony](https://wwww.symfony.com) for back-end.
+- [Symfony](https://www.symfony.com) for back-end.
 - [React](https://it.reactjs.org) for (some) front-end.
 - [Flutter](https://flutter.dev) for iOS and Android apps.
 
