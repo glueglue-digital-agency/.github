@@ -14,7 +14,7 @@ Through memorable and distinctive solutions we want to simplify and enhance our 
 - [Flutter](https://flutter.dev) for iOS and Android apps.
 
 ### Coding
-The maing principle is to always evaluate the cost/benefit ratio.
+The main principle is to always evaluate the cost/benefit ratio.
 
 We love best-practices and we strive to write [Clean Code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
