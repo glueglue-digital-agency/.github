@@ -10,8 +10,8 @@ Through memorable and distinctive solutions we want to simplify and enhance our 
 
 ### Technology
 - [Symfony](https://www.symfony.com) for back-end.
-- [React](https://it.reactjs.org) for (some) front-end.
 - [Flutter](https://flutter.dev) for iOS and Android apps.
+- [React](https://it.reactjs.org) for webapps front-end.
 
 ### Coding
 The main principle is to always evaluate the cost/benefit ratio.
