@@ -18,4 +18,4 @@ The main principle is to always evaluate the cost/benefit ratio.
 
 We love best-practices and we strive to write [Clean Code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
-![We at work](https://www.glueglue.com/wp-content/uploads/glueglue-sketch-glasswall.jpg)
+![We at work]([https://www.glueglue.com/wp-content/uploads/glueglue-sketch-glasswall.jpg](https://www.glueglue.com/img/persone-3.webp)https://www.glueglue.com/img/persone-3.webp)
