@@ -5,13 +5,13 @@
 
 Our portfolio is diverse and includes work created for a range of B2B and B2C clients: from leading high-tech companies to businesses in the fashion industry.
 
-Since 2007 we have been working with successful startups and numerous fortune 500 companies. We have developed our distinctive methodology which consists in 6 steps process, and allows us to constantly deliver successful digital products.
+Since 2007 we have been working with successful startups and numerous Fortune 500 companies. We have developed our distinctive methodology which consists in 6 steps process, and allows us to constantly deliver successful digital products.
 Through memorable and distinctive solutions we want to simplify and enhance our clients and their users lives.
 
 ### Technology
 - [Symfony](https://www.symfony.com) for back-end.
 - [Flutter](https://flutter.dev) for iOS and Android apps.
-- [React](https://it.reactjs.org) for webapps front-end.
+- [Svelte](https://svelte.dev) for webapps front-end.
 
 ### Coding
 The main principle is to always evaluate the cost/benefit ratio.
